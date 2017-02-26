@@ -1,0 +1,28 @@
+***Sound***
+**Menus**
+//done Option Toggle (optionhover.wav) - plays when options are hovered over
+//done Option Select (optionselect.wav)  - plays when an option is selected
+//done Option Deselect (optiondeselect.wav) - plays when the player returns to previous screen
+
+**Paint**
+//done Shot (shootpaint.wav) - plays when Splatter Paint is shot
+Impact - Inanimate Obstacle (hittable.wav)  - plays when the Splatter Paint hits an inanimate obstacle
+//done Impact - Ghost (hitghost.wav) - plays when the Splatter Paint hits the Ghost
+Bounce (paintbounce.wav) - plays when Splatter Paint bounces off a painted surface
+
+**Ghost**
+Idle Whoo (ghostwhoo.wav) - plays every 15 or so seconds while the Ghost is in idle
+//done Hit With Paint (ghosthitvoice.wav) - plays whenever the Ghost is hit with paint
+//done Defeated (ghostdefeatedvoice.wav) - plays whenever the Ghost is hit with paint
+Run Away (ghostrun.wav) - plays when the Ghost changes position on the map
+//done Reappear (ghostreappear.wav) - plays when the Ghost reappears on the map
+//done Succeeds (ghostwins.wav) - plays when the player runs out of paint
+
+**Fanfares**
+//done Progress (hitghostfanfare.wav) - plays whenever the player hits the Ghost
+//done Win Level (winfanfare.wav) - plays whenever the player successfully hits the Ghost for the last time in a level
+//done Lose Level (losefanfare.wav) - plays whenever the player runs out of paint and loses the level
+Item Find (finditem.wav) - plays whenever the player finds a story item
+
+***BGM***
+//done Background Music (BGM.wav) - to be played throughout game, including menus and gameplay
